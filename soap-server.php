@@ -4,7 +4,7 @@
 include "funcoes.php";
 
 
-
+ teste   dsfs sfs
 require_once("nusoap.php");
 
 $ns="http://www.maniezo.com.br/";
