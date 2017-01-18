@@ -8,7 +8,7 @@ include "funcoes.php";
 require_once("nusoap.php");
 
 $ns="http://www.maniezo.com.br/";
-
+teste
 $server = new soap_server();
 
 $server->configureWSDL('traz_cep',$ns);
