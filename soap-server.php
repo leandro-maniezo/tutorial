@@ -2,6 +2,7 @@
 teste3
 teste4
 teste4
+teste6
 
 include "funcoes.php";
 
