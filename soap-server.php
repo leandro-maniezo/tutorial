@@ -1,5 +1,5 @@
 <?
-
+teste3
 
 include "funcoes.php";
 
