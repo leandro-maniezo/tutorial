@@ -1,5 +1,6 @@
 <?
 teste3
+teste4
 
 include "funcoes.php";
 
